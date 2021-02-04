@@ -1,1 +1,1 @@
-web: ./gitea web -port 5000
+web: ./gitea web -port 3000
